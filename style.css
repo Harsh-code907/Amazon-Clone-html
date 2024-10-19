@@ -259,3 +259,8 @@ ul a{
     color:white; /* Change text color */
     text-decoration: none; /* Remove underline */
 }
+
+.see-more {
+    color:#551A8B; /* Change text color */
+    text-decoration: none; /* Remove underline */
+}
